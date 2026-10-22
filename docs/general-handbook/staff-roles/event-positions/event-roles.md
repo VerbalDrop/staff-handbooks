@@ -57,6 +57,7 @@ Leads the event security team and provides cyber protection for attendees and th
 - Ensure fairness in moderation actions within events.
 - <Tooltip noDecoration={true} width="9em" tip="Point of Contact">POC</Tooltip> for Owners regarding any cybersecurity issues in server/events.
 - Serve as the point of contact for HR reports about team members.
+- be a sneaky snake
 
 :::info
 The Head of Security ensures the safety and security of events and addresses any security concerns.
